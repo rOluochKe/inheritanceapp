@@ -1,0 +1,1 @@
+export const rootUrl = 'https://inheritanceapi-943f.onrender.com/api/v1/'
